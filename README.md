@@ -31,7 +31,7 @@ A modern, feature-rich web application empowering runners to track their fitness
 - CORS Support
 - Environment Variables
 
-## 📁 Project Structure
+<!-- ## 📁 Project Structure
 
 ### Frontend Structure
 ```
@@ -103,7 +103,7 @@ backend/
 │   └── production.txt
 ├── manage.py
 └── README.md
-```
+``` -->
 
 ## ✨ Features
 

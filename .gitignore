@@ -8,6 +8,7 @@ __pycache__/
 migrations/*
 !migrations/__init__.py
 .env
+.vscode/
 
 mobapp/
 dummy_data_postgres/
